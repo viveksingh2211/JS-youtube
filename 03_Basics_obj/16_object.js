@@ -25,6 +25,7 @@ const jsuser = {
 // console.log(jsuser.email)      // ---> This is the one method to access the object.
 
 // "full name": "Vivek Singh"  // ---> We can easily access to this method but not in the above method
+
 // console.log(jsuser["full name"])  // ---> But this method is also important to know.
 
 // console.log(jsuser.dayInWeek[2])
@@ -46,3 +47,6 @@ jsuser.myfuntwo = function(){
 
 jsuser.myfuntwo();
 jsuser.myfun()
+
+
+
